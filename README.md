@@ -36,8 +36,8 @@ Passionate Software Engineering | Aspiring Penetration Tester
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)]www.linkedin.com/in/favouridowu
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)]www.twitter.com/favour_eng
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/favouridowu)
+[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](https://www.twitter.com/favour_eng)
 
 ---
 
