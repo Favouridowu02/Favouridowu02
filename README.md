@@ -2,7 +2,7 @@
 
 Passionate Software Engineering | Aspiring Penetration Tester
 
-🌱 I'm currently learning Reactjs
+🌱 I'm currently on Reactjs
 
 👯 I’m looking to collaborate on Open source projects specifically reactjs based
 
@@ -30,7 +30,7 @@ Passionate Software Engineering | Aspiring Penetration Tester
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Favouridowu02&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Favouridowu&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Favouridowu02&layout=compact&theme=radical)
 
 ---
 
