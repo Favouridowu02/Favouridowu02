@@ -6,7 +6,9 @@ Passionate Software Engineering | Aspiring Penetration Tester
 
 👯 I’m looking to collaborate on Open source projects specifically reactjs based
 
-🤔 I’m looking for help with resources on ReactJs
+🤔 Building the next bug thing with Reactjs
+
+👀 Exploring the world of DSA with Java and Python
 
 💬 Ask me about C, Python, javascript, Cyber security
 
