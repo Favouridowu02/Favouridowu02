@@ -25,13 +25,7 @@ Passionate Software Engineering | Aspiring Penetration Tester
 - **Frameworks & Libraries:** will get updated soon
 - **Databases:** SQL
 - **Tools & Platforms:** Notion, Slack, Agile
-
----
-
-## GitHub Stats
-
-
-
+  
 ---
 
 ## Connect with Me
