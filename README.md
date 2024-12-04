@@ -18,7 +18,6 @@ Passionate Software Engineering | Aspiring Penetration Tester
 😄 Pronouns: He / Him
 
 ---
-
 ## Skills
 
 - **Programming Languages:** C, Python, Javascript
