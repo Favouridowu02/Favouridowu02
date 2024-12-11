@@ -4,7 +4,6 @@ Passionate Software Engineering | Aspiring Penetration Tester
 
 🌱 I'm currently on Penetration Testing
 
-
 👯 I’m looking to collaborate on Open source projects specifically reactjs based
 
 🤔 Building the next big thing with Reactjs
