@@ -1,19 +1,30 @@
 # Hello, I'm Favour 👋
 
-Passionate Software Engineering | Aspiring Penetration Tester
+Passionate Software Engineer | Aspiring Penetration Tester | Frontend Engineer | Backend Developer 
 
-🌱 I'm currently on Penetration Testing
-👯 I’m looking to collaborate on Open source projects specifically reactjs based
+🌱 Currently Learning: Advanced penetration testing, ethical hacking, and backend optimization
 
-🤔 Building the next big thing with Reactjs
+👯 Looking to Collaborate On: Open-source projects — especially those using React.js, Flask, Django, and Next.js
 
-👀 Exploring the world of DSA with Java and Python
+⚙️ Actively Building: Scalable full-stack applications using React.js, Next.js, Flask, and MySQL
 
-💬 Ask me about C, Python, javascript, Cyber security
+📚 Exploring: Data Structures & Algorithms with Java and Python
 
-📫 How to reach me: favouridowu02@gmail.com
+🛠️ Backend Skills:
 
-😄 Pronouns: He / Him
+Languages: Python, JavaScript (Node.js), SQL
+
+Frameworks: Flask, FastAPI, Express.js
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Tools & Platforms: Redis, Docker, Git, GitHub Actions, Firebase, REST APIs
+
+- 💬 Ask Me About: C, Python, JavaScript, cybersecurity, system design, backend architecture
+- 📫 Reach Me At: favouridowu02@gmail.com
+- 😄 Pronouns: He / Him
+- 💡 Philosophy: "Code with purpose. Hack with ethics. Build for impact."
+- 🌍 Currently Bridging: Tech & Education through practical projects and mentorship
 
 ---
 ## Skills
