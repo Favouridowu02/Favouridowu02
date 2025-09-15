@@ -26,7 +26,7 @@
 ## 🛠️ **Technical Skills**  
 
 **Languages:** Python, JavaScript (Node.js), TypeScript, C, C++  
-**Frameworks:** Flask, FastAPI, Express.js, React, Next.js  
+**Frameworks:** Flask, FastAPI, Express.js, React, Next.js, Django 
 **Databases:** MySQL, PostgreSQL, MongoDB  
 **Tools & Platforms:** Redis, Docker, Firebase, GitHub Actions, REST APIs  
 
